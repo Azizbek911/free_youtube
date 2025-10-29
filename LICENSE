@@ -1,21 +1,89 @@
-MIT License
 
-Copyright (c) 2025 Azizbek
+# LICENSE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+```text
+BlackHole Open Source License
+Version 1.0, December 2025
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright (c) 2024 BlackHole. All rights reserved.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. MUQADDIMA
+
+Ushbu litsenziya BlackHole jamoasi tomonidan ishlab chiqilgan "Free YouTube Downloader" 
+dasturiy ta'minotiga nisbatan qo'llaniladi. Dastur ochiq manbali va bepul tarqatiladi.
+
+2. FOYDALANISH SHARTLARI
+
+2.1. RUXSAT ETILGAN:
+- Dasturdan shaxsiy va tijorat maqsadlarida foydalanish
+- Dastur kodini o'zgartirish va takomillashtirish
+- O'zgartirilgan versiyalarni tarqatish (ushbu litsenziya saqlangan holda)
+- Dastur haqida ma'lumot berish va reklama qilish
+
+2.2. TAQIQLANGAN:
+- Dasturni sotish yoki pullik qilish
+- Dastur nomini o'zgartirib, BlackHole nomidan nojo'ya ishlar qilish
+- Dasturdan foydalanib, qonuniy bo'lmagan faoliyat bilan shug'ullanish
+- Dastur kodini o'zlashtirib, boshqa nom bilan tarqatish
+- Dastur yordamida mualliflik huquqiga ega kontentni noqonuniy tarzda yuklab olish
+
+3. KAFOLATLAR
+
+Dastur "QAANDay bo'lsa shunday" (AS IS) holatida taqdim etiladi. Mualliflar dasturning:
+- Ma'lum bir maqsadga muvofiqligiga
+- Xatolarsiz ishlashiga
+- Tijorat maqsadlariga javob berishiga
+
+Hech qanday kafolat bermaydilar.
+
+4. JAVOBGARLIK CHEKLARI
+
+Mualliflar dasturdan foydalanish natijasida yuzaga keladigan:
+- To'g'ridan-to'g'ri zararlar
+- Bilvosita zararlar
+- Maxsus zararlar
+- Tasodifiy zararlar
+
+Uchun javobgar emaslar.
+
+5. LITSENZIYA SHAKLI
+
+Ushbu litsenziya quyidagi shaklda saqlanishi shart:
+- Dastur kodida LICENSE fayli sifatida
+- Dastur ishga tushganda ekranga chiqarilishi
+- Tarqatilgan har qanday versiyada saqlanishi
+
+6. MUALLIFLIK HUQUQI
+
+Barcha mualliflik huquqlari BlackHole Team ga tegishli. 
+Dastur nomi, logotipi va identifikatsiya belgilari himoyalangan.
+
+7. QAYTA TARQATISH
+
+Dasturni qayta tarqatishda quyidagilar majburiy:
+- Asl LICENSE fayli saqlanishi
+- README.md fayli o'zgartirilmasligi
+- BlackHole Team haqida ma'lumot saqlanishi
+
+8. QONUNIY TALABLAR
+
+Dasturdan foydalanishda quyidagi qonunlarga rioya qilish majburiy:
+- Mualliflik huquqi qonunlari
+- Aqliy mulk qonunlari
+- Mahalliy va xalqaro telekommunikatsiya qonunlari
+
+9. LITSENZIYANI O'ZGARTIRISH
+
+BlackHole Team ushbu litsenziyani istalgan vaqtda o'zgartirish huquqiga ega. 
+Yangilangan litsenziya https://github.com/blackhole-team saytida e'lon qilinadi.
+
+10. ALOQA
+
+Litsenziya bilan bog'liq savollar uchun:
+📧 Email: azizbekjumaboyev911@gmail.com
+🌐 Website: https://www.blackhole.uz
+💬 Issues: https://t.me/jumaboyev_azizbek
+
+---
+
+"Free YouTube Downloader" - BlackHole Team tomonidan dunyo uchun yaratilgan 🚀
