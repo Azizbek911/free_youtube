@@ -1,0 +1,11 @@
+If you use Ubuntu or Kali Linux should write this commands on your termnial and use it:
+1) sudo apt update
+2) sudo apt install python3.12-venv -y
+3) python3 -m venv venv
+4) source venv/bin/activate
+
+
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install yt-dlp
