@@ -50,5 +50,5 @@ This tool is **interactive**, **self-installing**, and **FFmpeg-integrated**, me
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/free_youtube.git
+git clone https://github.com/Azizbek911/free_youtube.git
 cd free_youtube
