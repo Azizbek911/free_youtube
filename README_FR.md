@@ -2,7 +2,7 @@
 ### Développé par **l’équipe BlackHole**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![License](https://img.shields.io/badge/Licence-MIT-green)
+![License](https://img.shields.io/badge/Licence-green)
 ![Platform](https://img.shields.io/badge/Plateforme-Windows%20%7C%20Linux%20%7C%20macOS-orange)
 ![Status](https://img.shields.io/badge/Statut-Stable-brightgreen)
 
