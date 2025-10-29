@@ -1,40 +1,39 @@
-BlackHole Ochiq Kod Litsenziyasi
+BlackHole Open Source License  
+Copyright (c) 2025 BlackHole Team
 
-Mualliflik huquqi (c) 2024 BlackHole Jamoasi
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
+and associated documentation files (the “Software”), to deal in the Software without restriction, 
+including without limitation the rights to use, copy, modify, merge, publish, distribute, 
+sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions:
 
-Ushbu dasturiy ta'minot va tegishli hujjatlar nusxasini olish har qanday shaxsga 
-bepul ruxsat etiladi. Shaxs dasturiy ta'minot bilan cheklovlarsiz shug'ullanishi 
-mumkin, jumladan: foydalanish, nusxalash, o'zgartirish, birlashtirish, nashr qilish, 
-tarqatish, sublimitsenziyalash va/yoki dasturiy ta'minotning nusxalarini sotish, 
-shuningdek dasturiy ta'minot bilan ta'minlangan shaxslarga ruxsat berish quyidagi 
-shartlarga bo'ysunadi:
+🎯 BlackHole Special Terms
 
-🎯 BlackHole Maxsus Shartlari
+✅ Permitted:
+- Free use of the Software for personal and commercial purposes.  
+- Modification, improvement, and adaptation of the source code.  
+- Distribution of modified versions.  
+- Contribution to and further development of the project.
 
-✅ Ruxsat Etilgan:
-- Dasturdan shaxsiy va tijorat maqsadlarida bepul foydalanish
-- Kodni o'zgartirish, takomillashtirish va moslashtirish
-- O'zgartirilgan versiyalarni tarqatish
-- Loyihaga hissa qo'shish va rivojlantirish
+❌ Prohibited:
+- Selling or monetizing the Software as a paid product.  
+- Removing or altering the name "BlackHole" from the project (branding must be preserved).  
+- Use of the Software for illegal purposes.  
+- Misleading advertising or fraud using the BlackHole name.
 
-❌ Taqiqlangan:
-- Dasturni sotish yoki pullik qilish
-- "BlackHole" nomini olib tashlash yoki o'zgartirish
-- Dasturdan noqonuniy maqsadlarda foydalanish
-- BlackHole nomidan nojo'ya reklama yoki firibgarlik
+📋 Mandatory Conditions:
+- The copyright notice must be retained in all copies.  
+- These license terms must be preserved in all copies and substantial portions of the Software.  
+- Information about the BlackHole Team must be preserved.  
+- Modified code must remain open source (i.e., redistributed as open source).
 
-📋 Majburiy Shartlar:
-- Barcha nusxalarda mualliflik huquqi e'lonini saqlash
-- Ushbu litsenziya shartlarini saqlash
-- BlackHole Jamoasi haqida ma'lumotni saqlash
-- O'zgartirilgan kodni ochiq manba sifatida saqlash
+The above copyright notice and this permission notice shall be included in all copies or 
+substantial portions of the Software.
 
-Yuqoridagi mualliflik huquqi e'loni va ushbu ruxsat etish e'loni dasturiy ta'minotning 
-barcha nusxalarida yoki muhiy qismlarida kiritilishi shart.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR 
+NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-DASTURIY TA'MINOT "QAANDAY BO'LSA SHUNDAY" HOLATIDA TAQDIY ETILADI. HECH QANDAY KAFOLAT 
-BERILMAYDI, VOZEYDAN SO'NG SOTILADIGANLIGI YOKI MA'LUM BIR MAQSADGA MUVOFIQLIGI TO'G'RISIDA. 
-MUALLIFLAR YOKI MUALLIFLIK HUQUQI EGALARI HECH QANDAY DA'VO, ZARAR YOKI BOSHQA JAVOBGARLIK 
-UCHUN MAS'UL EMASLAR, DASTURIY TA'MINOT YOKI FOYDALANISH YOKI BOSHQA O'ZARO ALOQALAR 
-NATIJASIDA YUZAGA KELGAN SHARTNOMA, QASOS YOKI BOSHQA HAR QANDAY HOLATDA HAM.
-"Free YouTube Downloader" - BlackHole Jamoasi tomonidan dunyo uchun yaratilgan 🚀
+"Free YouTube Downloader" — created by the BlackHole Team for the world. 🚀
