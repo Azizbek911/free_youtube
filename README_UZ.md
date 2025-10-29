@@ -32,5 +32,5 @@ Bu vosita **interaktiv**, **o‘rnatilishi oson** va **FFmpeg integratsiyalashga
 
 ### 1️⃣ Repozitoriyani klonlash
 ```bash
-git clone https://github.com/yourusername/free_youtube.git
+git clone https://github.com/Azizbek911/free_youtube.git
 cd free_youtube
