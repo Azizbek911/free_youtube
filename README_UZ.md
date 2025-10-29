@@ -2,7 +2,7 @@
 ### Ishlab chiqqan: **BlackHole jamoasi**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![License](https://img.shields.io/badge/Litsenziya-MIT-green)
+![License](https://img.shields.io/badge/Litsenziya-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-orange)
 ![Status](https://img.shields.io/badge/Holat-Barqaror-brightgreen)
 
