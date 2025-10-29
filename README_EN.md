@@ -1,35 +1,36 @@
 # 🎬 Free YouTube Downloader  
-**A Fast, Safe, and 100% Free Open-Source YouTube Video & Audio Downloader.**  
+### Powered by **BlackHole Team**
 
-Created with ❤️ by **BlackHole Team**
-
----
-
-## 🚀 Features  
-
-- 🎥 Download videos in up to **8K quality**  
-- 🎵 Convert and download audio in **MP3** format  
-- ⚡ Supports all YouTube formats (144p – 8K)  
-- 🧠 Smart format selection (auto or manual)  
-- 🧩 Automatic dependency installation  
-- 💻 Works on **Linux**, **macOS**, and **Windows**  
-- 💸 Completely **free** and **open-source**  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-orange)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 ---
 
-## 🛠️ Requirements  
+## 🌐 Overview
+**Free YouTube Downloader** is a fully open-source Python project developed by the **BlackHole Team**.  
+It allows users to **download YouTube videos or audio (MP3/MP4)** in any available quality from **144p up to 8K** — completely free, without restrictions or ads.
 
-Before running the program, make sure you have:  
-
-- **Python 3.8+**
-- **FFmpeg** installed (the script installs it automatically if missing)
-- Internet connection
+This tool is **interactive**, **self-installing**, and **FFmpeg-integrated**, meaning it checks for and installs all required packages automatically.
 
 ---
 
-## 📦 Installation  
+## ⚙️ Key Features
 
-### Step 1: Clone the repository
+✅ **Auto Dependency Installer** — automatically installs all required Python libraries  
+✅ **FFmpeg Check & Auto Install** (Linux supported)  
+✅ **Format Selection Menu** — choose specific resolution or audio bitrate  
+✅ **Supports 144p → 8K video and MP3 audio**  
+✅ **Interactive Console UI** with color and animations  
+✅ **Error-safe downloader** with graceful handling  
+✅ **Cross-platform support** — works on **Windows**, **Linux**, and **macOS**  
+
+---
+
+## 🚀 Installation
+
+### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/free-youtube-downloader.git
-cd free-youtube-downloader
+git clone https://github.com/yourusername/free_youtube.git
+cd free_youtube
